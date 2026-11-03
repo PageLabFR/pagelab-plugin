@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pagelab": {
+      "type": "http",
+      "url": "https://app.pagelab.fr/mcp"
+    }
+  }
+}

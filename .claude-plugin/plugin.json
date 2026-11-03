@@ -1,0 +1,19 @@
+{
+  "name": "pagelab",
+  "displayName": "PageLab",
+  "version": "1.0.0",
+  "description": "Pour les cabinets d'avocats accompagnés : dossiers, pièces manquantes, audiences, honoraires, courriers et brouillons sourcés, recherche de textes et de décisions sur Légifrance et Judilibre. Rien n'est envoyé : l'avocat relit et envoie.",
+  "author": {
+    "name": "PageLab",
+    "url": "https://pagelab.fr"
+  },
+  "homepage": "https://pagelab.fr/documentation",
+  "keywords": [
+    "avocat",
+    "cabinet",
+    "dossiers",
+    "legal",
+    "france"
+  ],
+  "privacyPolicyUrl": "https://app.pagelab.fr/confidentialite"
+}
